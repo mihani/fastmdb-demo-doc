@@ -1,3 +1,8 @@
+---
+title: Fast MDB
+permalink: index.html
+---
+
 # Demo Fast Mdb
 
 L'application se trouve à cette [adresse](http://fastmdb-demo.herokuapp.com).
